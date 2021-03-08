@@ -3,7 +3,7 @@
 ## Contacts for communication
 - Email *VPA273@gmail.com*
 - Skype *VPA273*
-- Phone number *+375-29-814-42-97*
+- Phone number *+375 (29) 814-42-97*
 - Country *Belarus*
 - City *Vitebsk*
 ## Education
