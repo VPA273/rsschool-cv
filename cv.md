@@ -1,11 +1,11 @@
 # Pavel Volkov
 
 ## Contacts for communication
-- Email VPA273@gmail.com
-- Skype VPA273
-- Phone number +375-29-814-42-97
-- Country Belarus
-- City Vitebsk
+- Email *VPA273@gmail.com*
+- Skype *VPA273*
+- Phone number *+375-29-814-42-97*
+- Country *Belarus*
+- City *Vitebsk*
 ## Education
 - 2006 - 2011 **Polotsk State University**
    - *Design and computer modeling of radio electronic equipment*
